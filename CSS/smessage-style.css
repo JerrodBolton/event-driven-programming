@@ -1,0 +1,23 @@
+body {
+    background-color: blueviolet;
+    color: Black;
+  }
+  nav {
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height:30px;
+  }
+  
+  footer {
+    text-align: center;
+    margin-right: 200px;
+    margin-top: 200px;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  
