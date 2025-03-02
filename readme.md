@@ -30,7 +30,7 @@ JavaScript can make a webpage interactive in many ways. For this assignment, you
 * Take one or more screen prints of your application running.
 ### NOTE:
 
-* You MUST use innerhtml for user validation and palindrome messages(no alerts).
+* You MUST use inner html for user validation and palindrome messages(no alerts).
 
 * You MUST use form with submit for all user input
 

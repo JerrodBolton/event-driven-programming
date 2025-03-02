@@ -38,14 +38,17 @@
         question that you think is useful.
     </p>
 
-
+ 
 
         <!--! This image need it move in a different type of way. -->
-
-    <button onclick="moveImage()">Move Image</button>
-    <!-- <button id="stopimage">Stop Image</button> -->
+        <!-- This is going to  start the fun of movement button   -->
+    <div class="container">
+        <button onclick="move()" id="moveImg">Move Image</button>
+            <!--This is going to stop -->
+        <button onclick="stopImage()" id="stopImg">Stop Image</button>
+    </div>
         <!-- this is the way that we would popular a image tag. Also, i have added a class attribute inside the element -->
-        <img src="../meme.webp" alt="memes" class="memeImage" id="memeImage" />
+        <img src="../meme.webp" alt="memes" class="memeImage" id="memeImage" style="position: relative;" />
    
     
     <!-- This is a navigation of footer that holds all of my navigation tags what we call a web map on a website -->
@@ -58,8 +61,8 @@
     <footer>
         Jerrod Bolton <br> 
         University of Advancing Technology <br>
-        2625 W Baseline Rd, <br>
-        Tempe, AZ 85283 <br>
+        2625 W Baseline Rd,
+        Tempe, AZ 85283 
     </footer>
 <script src="../ JS/moveImage.js"></script>
 </body>
