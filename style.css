@@ -22,8 +22,8 @@ text-align - set to center
 Link the main.css page to the index.html and boards.html pages between the opening and closing head tags in the index.html and boards pages, like so: */
 
 body {
-  background-color: rgb(138, 43, 226);
-  color: Black;
+  background-color: rgb(26, 209, 237);
+  color: rgb(116, 39, 188);
 }
 nav {
   height: 600px;
@@ -50,7 +50,7 @@ header {
   text-align: center;
 }
  button{
-  background-color: rgba(0, 0, 0, 0.717);
+  background-color: rgba(0, 0, 0, 0.1);
   color: rgb(138, 43, 226);
   border-radius: 10%;
   cursor: pointer;
